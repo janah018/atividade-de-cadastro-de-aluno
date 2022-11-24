@@ -1,0 +1,1 @@
+alter table sala de aula
